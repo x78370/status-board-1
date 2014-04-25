@@ -12,11 +12,11 @@ body {
 table thead {
   background-color: black; }
   table thead tr th {
-    color: white;
-    font-size: 1.15rem; }
+    color: white; }
 
 table tr:nth-of-type(even) {
   background: #404040; }
 
 table tr td {
-  color: white; }
+  color: white;
+  font-size: 1.15rem; }
