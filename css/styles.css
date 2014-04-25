@@ -19,4 +19,5 @@ table tr:nth-of-type(even) {
 
 table tr td {
   color: white;
-  font-size: 0.85rem; }
+  font-size: 0.9rem;
+  font-style: bold; }
