@@ -7,8 +7,9 @@ $table-row-font-color: white;
 table {
 	font-family: 'Gafata', sans-serif;
 	list-style: none;
-	font-size: 1.15rem;
+	font-size: 1rem;
 	background: $table-bg;
+
 	
 }
 
@@ -33,5 +34,5 @@ background: $table-even-row-bg;
 
 table tr td {
 	color: $table-row-font-color;
-	font-size: 1rem;
+	font-size: 0.85rem;
 }

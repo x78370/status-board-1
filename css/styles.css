@@ -2,7 +2,7 @@
 table {
   font-family: 'Gafata', sans-serif;
   list-style: none;
-  font-size: 1.15rem;
+  font-size: 1rem;
   background: #424242; }
 
 body {
@@ -19,4 +19,4 @@ table tr:nth-of-type(even) {
 
 table tr td {
   color: white;
-  font-size: 1rem; }
+  font-size: 0.85rem; }
