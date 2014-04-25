@@ -7,7 +7,7 @@ $table-row-font-color: white;
 table {
 	font-family: 'Gafata', sans-serif;
 	list-style: none;
-	font-size: 1rem;
+	font-size: 1.15rem;
 	background: $table-bg;
 	
 }
@@ -22,7 +22,7 @@ table thead {
 	background-color: $table-title;
 	tr th {
 		color: $table-row-font-color;
-		font-size: 1.25rem;
+		font-size: 1.2rem;
 	}
 }
 
