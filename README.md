@@ -1,4 +1,4 @@
-p2-dvr-app
+status-board-1
 ==========
 
-Project 2 DVR App
+Status Board Panel 1
